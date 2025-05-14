@@ -1,49 +1,44 @@
-<!-- Animated waving hand gif -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-</p>
-
-# 👋 Hey there! I'm **Hong Layeang**
-
-🎓 *Software Engineering Student at [CADT](https://cadt.edu.kh)*  
-💡 *Web Developer | Backend Enthusiast | Curious languages Explorer*  
-🚀 *Fuelled by curiosity and caffeine – I build, break, and rebuild modern web apps.*
-
----
-
-### 🚀 Tech Arsenal
-
-🧠 **Languages & Frameworks I Use:**
-
-![C](https://skillicons.dev/icons?i=c)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Java](https://skillicons.dev/icons?i=java)  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Express](https://skillicons.dev/icons?i=express)
-
----
-
-### 📊 GitHub at a Glance
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Hong+Layeang" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hong-Layeang&show_icons=true&theme=tokyonight&hide=prs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-Layeang&layout=compact&theme=tokyonight" width="44%" />
+  🎓 <strong>Software Engineering Student</strong> at <strong>CADT (Cambodia Academy of Digital Technology)</strong><br>
+  💻 Passionate about <em>modern web development</em> & <em>cutting-edge technology</em><br>
+  🌱 Currently diving into <strong>backend development</strong>, <strong>system design</strong>, and <strong>advanced C++</strong><br>
+  📫 <em>Let’s connect and build something amazing together!</em>
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🚀 Tech Stack
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15hAvcxYz5/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-layeang-ba182a365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,react,nodejs,express&perline=9" />
+</p>
 
 ---
 
-<!-- Optional: Add a simple SVG animation -->
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&width=435&lines=Passionate+about+coding...;Exploring+backend+magic...;Let's+build+something+cool!+🚀" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hong-Layeang&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-Layeang&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/share/15hAvcxYz5/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hong-layeang-ba182a365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
