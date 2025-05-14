@@ -1,6 +1,9 @@
 <h1 align="center">
   <p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=375&lines=👋+Hello%2C+I'm+Hong+Layeang" />
+</p>
+
 </p>
 
 </h1>
