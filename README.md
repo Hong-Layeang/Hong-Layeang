@@ -1,60 +1,49 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Layeang%20👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=LAYEANG&animation=fadeIn&type=waving&color=0:1f2933,100:111827&height=120&fontColor=ffffff"/>
 </p>
+
+<table>
+<tr>
+<td width="55%">
+
+### 👋 Hello, I’m **Hong Layeang**
+
+Software Engineering student at **CADT**.  
+I build things quietly,  
+care about structure more than hype,  
+and enjoy systems that *just make sense*.
+
+Sometimes web.  
+Sometimes mobile.  
+Always learning.
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.tenor.com/9Y6E9uX9Jp8AAAAC/wuthering-waves-phrolova.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧩 Tech I Actually Use
 
 <p align="center">
-  <img src="https://media.tenor.com/8RrXKcY2fZcAAAAC/wuthering-waves-wuwa.gif" width="320" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,figma" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 👋 Hi, I'm **HONG LAYEANG**
-- 🎓 Software Engineering Student at **CADT**
-- 💡 Passionate about **Full-Stack Development**
-- 🚀 Interested in **Mobile Apps, Web APIs, and System Design**
-- 🎮 Anime & Game lover (Wuthering Waves fan 😎)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- C / C++
-- Java
-- JavaScript
-- Dart
-
-**Frontend**
-- React
-- Flutter
-- HTML / CSS
-
-**Backend**
-- Node.js
-- Express
-- Sequelize
-- RESTful APIs
-
-**Database**
-- MySQL
-- PostgreSQL
-
-**Tools**
-- Git & GitHub
-- Figma
-- Swagger
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **layeang.hong@student.cadt.edu.kh**
-- 💼 GitHub: [github.com/HONG-LAYEANG](https://github.com/HONG-LAYEANG)
+> *“Clean architecture is a form of respect — for users and for future you.”*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:111827,100:1f2933&height=90"/>
 </p>
