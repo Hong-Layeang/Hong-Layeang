@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=こんにちは&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <div align="center">
@@ -59,18 +59,18 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hong-Layeang&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-Layeang&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hong-Layeang&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hong-Layeang&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 📫 Let's Connect!
@@ -80,7 +80,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hong-Layeang&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
