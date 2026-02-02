@@ -11,12 +11,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<!--
-NOTE: GitHub does not support Tenor Embed Scripts.
-I have placed a direct placeholder. If this breaks,
-Right click the gif on Tenor -> Copy Image Link -> Paste here.
--->
-<img src="https://www.google.com/search?q=https://media.tenor.com/Jz2tH2NglOQAAAAC/wuthering-waves-wuwa.gif" width="100%" alt="Phrolova GIF" />
+<img width="320" height="270" alt="image" src="https://github.com/user-attachments/assets/52a0ac8f-3626-4779-97b7-0af32f888671" />
 </td>
 <td valign="center">
 <h2>👋 I'm HONG LAYEANG</h2>
@@ -59,8 +54,8 @@ Passionate about coding, technology, and anime!
 
 <h3>📊 GitHub Analytics</h3>
 <p>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME_HERE%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Langs" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHong-Layeang%26show_icons%3Dtrue%26theme%3Dradical" height="150" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHong-Layeang%26layout%3Dcompact%26theme%3Dradical" height="150" alt="Top Langs" />
 </p>
 
 <!-- FOOTER -->
