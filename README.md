@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img width="320" height="270" alt="image" src="https://github.com/user-attachments/assets/52a0ac8f-3626-4779-97b7-0af32f888671" />
+[[<img width="320" height="270" alt="image" src="https://github.com/user-attachments/assets/52a0ac8f-3626-4779-97b7-0af32f888671" />](https://tenor.com/view/wuthering-waves-wuwa-rtx-on-phrolova-gif-17685821503974257132)](https://tenor.com/view/wuthering-waves-wuwa-rtx-on-phrolova-gif-17685821503974257132)
 </td>
 <td valign="center">
 <h2>👋 I'm HONG LAYEANG</h2>
