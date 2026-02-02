@@ -1,43 +1,59 @@
+<!-- Header (subtle, professional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20I%27m%20HONG%20LAYEANG%20🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?text=HONG%20LAYEANG%20—%20Software%20Engineering%20Student&animation=fadeIn&type=soft&color=gradient&height=80" alt="header" />
 </p>
 
----
-
 <p align="center">
-  <!-- Centered anime GIF (Tenor raw GIF URL works on GitHub READMEs) -->
-  <img src="https://media.tenor.com/9XCo9FFZsewAAAAi/wuthering-waves-wuwa.gif" alt="Wuwa GIF" width="220"/>
+  <!-- Small circular avatar (Tenor raw GIF URL displays on GitHub) -->
+  <img src="https://media.tenor.com/9XCo9FFZsewAAAAi/wuthering-waves-wuwa.gif" alt="Wuwa avatar" width="120" style="border-radius:50%;" />
 </p>
 
-# Hi — I'm **HONG LAYEANG** 👋  
-Student · Developer · Content Creator  
-📧 layeang.hong@student.cadt.edu.kh
+# Hi — I'm **HONG LAYEANG** 👋
+Software engineering student at CADT — I build practical web & mobile tools that solve problems for students and small teams.  
+I prefer a clean, maintainable codebase and pragmatic UX.
 
 ---
 
-## About me
-- I'm a college software engineering student at CADT.  
-- I enjoy building full-stack projects, frontend apps (Flutter/React), and small tools for education.  
-- Big fan of die-cast cars, gaming, and anime.
-
-## Tech & Tools
-- Languages: C++ · JavaScript/TypeScript · SQL  
-- Frameworks: Node.js · Express · React · Flutter  
-- Other: Git · Docker · MySQL / Sequelize
-
-## Selected projects
-- **NisitTrade** — marketplace app (frontend-first Flutter + Node.js stack).  
-- **QuickStock** — inventory system (Node.js, Express, Sequelize, React).  
-*(More projects and details available in the repos section of this profile.)*
+### Quick summary
+Student · Developer · Content Creator • Focus: full-stack web & cross-platform mobile (Flutter).  
+Contact: [layeang.hong@student.cadt.edu.kh](mailto:layeang.hong@student.cadt.edu.kh)
 
 ---
 
-## Contact
+## What I do
+I design and implement end-to-end features — from database models and APIs to frontend UI.  
+I enjoy shipping small, useful projects (marketplaces, inventory tools, educational aids) and iterating quickly based on feedback.
+
+---
+
+## Tech & Tools (grouped)
+| Category | Primary tools | Proficiency |
+|---|---:|:---|
+| **Languages** | `C++` · `JavaScript` · `TypeScript` · `SQL` | ★★★★☆ |
+| **Backend** | `Node.js` (Express), REST APIs, Sequelize | ★★★★☆ |
+| **Frontend / Mobile** | `React` · `Flutter` — UI, responsive layout | ★★★★☆ |
+| **Databases & Storage** | MySQL, Sequelize ORM | ★★★☆☆ |
+| **DevOps & Tools** | Git · Docker · CI basics | ★★★☆☆ |
+
+> Notes: stars indicate practical familiarity (★★★☆☆ = comfortable building projects; ★★★★☆ = regular use).
+
+---
+
+## Approach
+- **Readable code**: prefer clear structure and small modules over clever one-liners.  
+- **UX-first features**: I build functionality that users can actually work with — forms, validation, simple flows.  
+- **Continuous learning**: I iterate on new libraries and patterns, but only adopt them when they solve real problems.
+
+---
+
+## Contact & links
 - Email: <layeang.hong@student.cadt.edu.kh>  
-- Tenor GIF source: [Wuthering Waves — Wuwa on Tenor](https://tenor.com/view/wuthering-waves-wuwa-rtx-on-phrolova-gif-17685821503974257132)
+- GIF source: [Wuthering Waves — Wuwa on Tenor](https://tenor.com/view/wuthering-waves-wuwa-rtx-on-phrolova-gif-17685821503974257132)  
+- GitHub: (this profile) — feel free to check repositories for code samples
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20stopping%20by!%20✨&animation=fadeIn&type=waving&color=overlay&height=60" alt="footer" />
+<p align="center" style="opacity:0.8">
+  © <!-- year auto-update not available in static markdown, update manually if you want -->
+  HONG LAYEANG — CADT
 </p>
