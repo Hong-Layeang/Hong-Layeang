@@ -2,28 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?text=こんにちは&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<div align="center">
-  <img src="https://media.tenor.com/9XCo9FFZsewAAAAi/wuthering-waves-wuwa.gif" width="200px" alt="Anime Character"/>
-</div>
-
-<h1 align="center">👋 Hi, I'm HONG LAYEANG</h1>
-
-<p align="center">
-  <a href="mailto:layeang.hong@student.cadt.edu.kh">
-    <img src="https://img.shields.io/badge/Email-layeang.hong%40student.cadt.edu.kh-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://media.tenor.com/9XCo9FFZsewAAAAi/wuthering-waves-wuwa.gif" width="80px" style="vertical-align: middle;"/>
+  👋 Hi, I'm HONG LAYEANG
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="mailto:layeang.hong@student.cadt.edu.kh">
+    <img src="https://img.shields.io/badge/Email-layeang.hong%40student.cadt.edu.kh-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/Layeangg">
+    <img src="https://img.shields.io/badge/Telegram-@Layeangg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.facebook.com/hong.layeang">
+    <img src="https://img.shields.io/badge/Facebook-Hong%20Layeang-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
+## 🚀 About Me
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. Always eager to learn and take on challenging projects!
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -39,12 +42,10 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -57,7 +58,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ---
 
 ## 📫 Let's Connect!
-
 <p align="center">
   Feel free to reach out if you want to collaborate on projects or just have a chat about technology!
 </p>
